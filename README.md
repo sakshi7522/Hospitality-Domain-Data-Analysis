@@ -6,5 +6,7 @@ Gain deep domain knowledge in the hotel industry — especially around operation
 
 ### Tools & Technologies Used
 Python
+
 Pandas – data manipulation & cleaning
+
 Jupyter Notebook – code + narrative
